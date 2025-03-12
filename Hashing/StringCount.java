@@ -14,6 +14,7 @@ public class StringCount {
             hash[s.charAt(i) - 'a']++;
         }
 
+        // this is for n no. of checkssss
         int q;
         q = sc.nextInt();
         while (q-- > 0) {
